@@ -46,3 +46,167 @@ main .leftSection #sarthak{
 nav .left{
     font-size: 20px;
 }
+main .leftSection #secondaryText{
+    font-size: 18px;
+    font-weight: 200;
+    line-height: normal;
+    position: relative;
+    top: -64px;
+    color: rgba(255, 255, 255, 0.829);
+
+}
+#hr1{
+    margin-top: 140px;
+    justify-content: center;
+    width: 90%;
+}
+#what-i-did{
+    font-size: 12px;
+    color: rgba(255, 255, 255, 0.721); 
+    margin-top: 50px;
+    margin-left: 160px;
+}
+#works #work-experience{
+    font-weight: 700;
+    font-size: 18px;
+    margin-left: 160px;
+    line-height: 0px;
+}
+#hr2{
+    margin-top: 50px;
+    width: 82%;
+}
+#works-showcase #works-vr1{
+    border-left: 1px solid rgb(255, 255, 255);
+    height: 100px;
+    width: 1px;
+    margin-left: 250px;
+    position: relative;
+    top: -6px;
+
+}
+#works-showcase #works-vr2{
+    border-left: 1px solid rgb(255, 255, 255);
+    height: 100px;
+    width: 1px;
+    margin-left: 542px;
+    position: relative;
+    top: -106px;
+}
+#works-showcase #works-vr3{
+    border-left: 1px solid rgb(255, 255, 255);
+    height: 100px;
+    width: 1px;
+    margin-left: 860px;
+    position: relative;
+    top: -206px;
+}
+#works-showcase #works-vr4{
+    border-left: 1px solid rgb(255, 255, 255);
+    height: 100px;
+    width: 1px;
+    margin-left: 1167px;
+    position: relative;
+    top: -306px;
+}
+#python p{
+    font-weight: 300;
+    font-size: 10px;
+    color: rgba(255, 255, 255, 0.692);
+}
+#python p span{
+    font-weight: 700;
+    font-size: 15px;
+    color: White;
+}
+#python{
+    position: relative;
+    top: -320px;
+    left: 220px;
+}
+#django p{
+    font-weight: 300;
+    font-size: 10px;
+    color: rgba(255, 255, 255, 0.692); 
+}
+#django p span{
+    font-weight: 700;
+    font-size: 15px;
+    color: white;
+}
+#django{
+    position: relative;
+    top: -410px;
+    left: 515px;
+}
+#js p{
+    font-weight: 300;
+    font-size: 10px;
+    color: rgba(255, 255, 255, 0.692); 
+}
+#js p span{
+    font-weight: 700;
+    font-size: 15px;
+    color: white;
+}
+#js{
+    position: relative;
+    top: -500px;
+    left: 819px;
+}
+#html-css p{
+    font-weight: 300;
+    font-size: 10px;
+    color: rgba(255, 255, 255, 0.692); 
+}
+#html-css p span{
+    font-weight: 700;
+    font-size: 15px;
+    color: white;
+}
+#html-css{
+    position: relative;
+    top: -590px;
+    left: 1127px;
+}
+#footer{
+    height: 88px;
+    background-color: rgba(16, 16, 16, 0.671);
+}
+#works-showcase{
+    height: 400px;
+}   
+#footer p{
+    font-weight: 700;
+    font-size: 14px;
+    padding-left: 180px;
+    position: relative;
+    top: 23px;
+}
+#footer #ul1{
+    position: relative;
+    top: -47px;
+    left: 540px;
+    font-size: 12px;
+}
+#footer #ul1 li{
+    list-style: none;
+}
+#footer #ul2{
+    position: relative;
+    top: -132px;
+    left: 810px;
+    font-size: 12px;
+}
+#footer #ul2 li{
+    list-style: none;
+}
+#footer #ul3{
+    position: relative;
+    top: -217px;
+    left: 1078px;
+    font-size: 12px;
+}
+#footer #ul3 li{
+    list-style: none;
+}

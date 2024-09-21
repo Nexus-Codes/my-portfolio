@@ -210,3 +210,7 @@ main .leftSection #secondaryText{
 #footer #ul3 li{
     list-style: none;
 }
+nav .right ul li a{
+    text-decoration: none;
+    color: white;
+}
